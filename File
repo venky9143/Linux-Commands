@@ -102,4 +102,3 @@ find	#Search for files and directories.
 i-type: #Search by file type.
 
 find /path/to/search -name “*.txt” #searches for all files with the extension “.txt” in the specified directory.
-
